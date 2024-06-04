@@ -1,0 +1,27 @@
+.addOne{
+  font-size: 10px;
+  width: 100px;
+  height: 20px;
+}
+p{
+  font-size: 15px;
+  color: black;
+}
+#name{
+  font-size: 4 0px;
+  text-transform: uppercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+ #url{
+  font-size: 20px;
+  text-transform:lowercase;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #all-inside{
+  border: 1px solid black;
+ }
+ #images{
+  border-radius: 20px;
+  width: 200px;
+ }
